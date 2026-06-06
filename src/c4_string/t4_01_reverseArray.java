@@ -20,6 +20,9 @@ public class t4_01_reverseArray {
 //		System.out.println(1234/10);
 		
 		while(true) {
+			//왜 틀린거냐? : 원래는 (int) x%10 을 했다. 
+			// -> 근데 (int) 연산자는 나머지 연산자 % 보다 우선순위가 높다.
+			// 따라서 (int)x 가 먼저 실행된 후 %10 이 계산됨으로 틀린것이다. 
 			int t = (int)(x%10);
 			save.add(t);
 			long waste = x / 10;
@@ -30,7 +33,6 @@ public class t4_01_reverseArray {
 			}
 		}
 		
-		//System.out.println(save);
 		
 		int[] answer = new int[save.size()];
 		int i= 0;
