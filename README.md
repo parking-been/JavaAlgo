@@ -17,6 +17,7 @@ src/
 | c5_recursion  | 재귀       |
 | c6_bruteforce | 완전탐색   |
 | c7_BfsDfs     | BFS/DFS    |
+| c8_hash       | 해시       |
 | ssafy         | SSAFY/SWEA |
 
 ## 풀이 목록
@@ -44,14 +45,21 @@ src/
 | #   | 출처              | 문제             | 파일                                                                       | 블로그                          |
 | --- | ----------------- | ---------------- | -------------------------------------------------------------------------- | ------------------------------- |
 | 01  | 프로그래머스(Lv2) | 빛의 경로 사이클 | [t6_01_ligthtsWayCycle.java](src/c6_bruteforce/t6_01_ligthtsWayCycle.java) | https://imgrooot.tistory.com/18 |
+| 02  | SWEA(D5)          | 최적 경로        | [swea_1247_d5.java](src/c6_bruteforce/swea_1247_d5.java)                   | -                               |
 
 ### BFS/DFS (c7_BfsDfs)
 
-| #   | 출처              | 문제             | 파일                                                                     | 블로그 |
-| --- | ----------------- | ---------------- | ------------------------------------------------------------------------ | ------ |
-| 01  | 프로그래머스(Lv3) | 여행경로         | [t7_01_travelRoute.java](src/c7_BfsDfs/t7_01_travelRoute.java)           | -      |
-| 02  | 프로그래머스(Lv3) | 네트워크         | [t7_02_networks.java](src/c7_BfsDfs/t7_02_networks.java)                 | -      |
-| 03  | 프로그래머스(Lv2) | 게임 맵 최단거리 | [t7_03_shortestPath.java](src/c7_BfsDfs/t7_03_shortestPath.java)         | -      |
+| #   | 출처              | 문제             | 파일                                                             | 블로그 |
+| --- | ----------------- | ---------------- | ---------------------------------------------------------------- | ------ |
+| 01  | 프로그래머스(Lv3) | 여행경로         | [t7_01_travelRoute.java](src/c7_BfsDfs/t7_01_travelRoute.java)   | -      |
+| 02  | 프로그래머스(Lv3) | 네트워크         | [t7_02_networks.java](src/c7_BfsDfs/t7_02_networks.java)         | -      |
+| 03  | 프로그래머스(Lv2) | 게임 맵 최단거리 | [t7_03_shortestPath.java](src/c7_BfsDfs/t7_03_shortestPath.java) | -      |
+
+### 해시 (c8_hash)
+
+| #   | 출처              | 문제          | 파일                                                       | 블로그                          |
+| --- | ----------------- | ------------- | ---------------------------------------------------------- | ------------------------------- |
+| 01  | 프로그래머스(Lv2) | 전화번호 목록 | [t8_01_numberList.java](src/c8_hash/t8_01_numberList.java) | https://imgrooot.tistory.com/21 |
 
 ### SSAFY / SWEA (ssafy)
 
@@ -66,7 +74,7 @@ src/
 
 | 주차      | 기간               | 풀이 수 | 달성 여부 | 누적 |
 | --------- | ------------------ | ------- | --------- | ---- |
-| 6월 2주차 | 6월 8일 ~ 6월 14일 | 4       | -         | 7    |
+| 6월 2주차 | 6월 8일 ~ 6월 14일 | 6       | ✅        | 9    |
 
 <!-- TRACKER_END -->
 
