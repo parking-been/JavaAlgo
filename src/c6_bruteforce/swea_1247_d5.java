@@ -46,6 +46,11 @@ public class swea_1247_d5 {
 	}
 	
 	static void dfs(int depth,int sum, int cX, int cY) {
+		//성능 향상을 위해 중간에 가지치기!!!
+		if(sum>=minDistance) {
+			return;
+		}
+		
 		if (depth==N) {
 			//회사까지 거리 구하고, min update
 			sum += distance(cX, cY, home[0], home[1]);
