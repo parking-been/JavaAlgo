@@ -65,6 +65,7 @@ src/
 | 04  | SWEA(D3)          | 등산로 조성      | [swea_1949.java](src/c7_BfsDfs/swea_1949.java)                   | -      |
 | 05  | 프로그래머스(Lv2) | 수식 최대화      | [pro_수식최대화_67257.java](src/c7_BfsDfs/pro_수식최대화_67257.java) | -      |
 | 06  | 프로그래머스(Lv2) | 거리두기 확인하기 | [pro_거리두기확인하기_81302.java](src/c7_BfsDfs/pro_거리두기확인하기_81302.java) | -      |
+| 07  | 프로그래머스(Lv3) | 순위         | [pro_순위_49191.java](src/c7_BfsDfs/pro_순위_49191.java) | -      |
 
 ### 해시 (c8_hash)
 
@@ -98,6 +99,7 @@ src/
 | 01  | 프로그래머스(Lv2) | 스킬트리  | [t11_skillTree.java](src/c11_imple/t11_skillTree.java)      | -      |
 | 02  | SWEA(D4)          | 벽돌 깨기 | [swea_5656.java](src/c11_imple/swea_5656.java) / [old](src/c11_imple/swea_5656_old.java) | -      |
 | 03  | 프로그래머스(Lv2) | 괄호 변환 | [pro_괄호변환.java](src/c11_imple/pro_괄호변환.java) | -      |
+| 04  | 프로그래머스(Lv1) | 시소짝꿍  | [pro_시소짝꿍_152996.java](src/c11_imple/pro_시소짝꿍_152996.java) | -      |
 
 ### 그리디 (c12_greedy)
 
@@ -136,7 +138,7 @@ src/
 | 7월 2주차 | 7월 6일 ~ 7월 12일  | 1       | ❌        | 15   |
 | 7월 3주차 | 7월 13일 ~ 7월 19일 | 1       | ❌        | 16   |
 | 7월 4주차 | 7월 20일 ~ 7월 26일 | 3       | ❌        | 19   |
-| 7월 5주차 | 7월 27일 ~ 8월 2일  | 5       | 🔄️        | 24   |
+| 7월 5주차 | 7월 27일 ~ 8월 2일  | 7       | 🔄️        | 26   |
 
 <!-- TRACKER_END -->
 
